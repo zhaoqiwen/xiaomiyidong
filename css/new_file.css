@@ -71,6 +71,11 @@
 	overflow:hidden;
 	margin-left: 0.38rem;
 	align-items: center;
+	overflow: auto;
+}
+.wenzi1::--webkit-scrollbar{
+	width: 0;
+	height: 0;
 }
 .wenzi1{
 	width: 18.3rem;
@@ -114,6 +119,46 @@
 	
 }
 .tu1 img{
+	width: 100%;
+	height: 100%;
+}
+.santu{
+	width: 100%;
+	height: 7.6rem;
+	background: black;
+	display: flex;
+	justify-content: space-between;
+}
+.santu .tupian1{
+	width: 5.3rem;
+	height: 100%;
+	background: yellow;
+}
+.santu .tupian2{
+	width: 5.3rem;
+	height: 100%;
+	background: blue;
+	display: flex;
+	flex-direction: column-reverse;
+}
+.santu .tupian1 img{
+	width: 100%;
+	height: 100%;
+}
+.tupian2 .shang{
+	width: 100%;
+	height: 3.5rem;
+}
+.tupian2 .xia{
+	width: 100%;
+	height: 3.5rem;
+	margin-top: 0.2rem;
+}
+.shang img{
+	width: 100%;
+	height: 100%;
+}
+.xia img{
 	width: 100%;
 	height: 100%;
 }
