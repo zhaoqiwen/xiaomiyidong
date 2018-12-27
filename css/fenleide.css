@@ -1,0 +1,104 @@
+.{
+	margin: 0;
+	padding: 0;
+}
+
+.fentou{
+	height: 100rem;
+	max-width: 640px;
+	background: #f2f2f2;
+	margin: 0 auto;
+	background: #0000FF;
+}
+	
+.fenglei{
+	width: 100%;
+	max-width: 640px;
+	height: 1.42rem;
+	display: flex;
+	justify-content: space-between;
+	background: red;
+	position: fixed;
+	left:0;
+	top: 0;
+	right:0;
+	margin-left: auto;
+	margin-right: auto;
+	
+
+}
+.fanhui img{
+	width: 0.35rem;
+	height: 0.6rem;
+	margin-left: 0.5rem;
+}
+.wenzi2{
+	font-size: 0.4rem;
+	line-height: 1.42rem;
+}
+.sousuo img{
+	width: 0.62rem;
+	height: 0.62rem;
+	margin-right: 0.5rem;
+}
+.xuanxiang{
+	width: 100%;
+	height: 100rem;
+	display: flex;
+	margin-top: 1.42rem;
+}
+.zuo{
+	height: 100%;
+	width: 2.26rem;
+	/* background: black; */
+	margin-right: 0.03rem;
+	text-align: center;
+}
+.you{
+	height: 100%;
+	width: 8.5rem;
+	background: #FFFF00;
+	padding: 0rem 0.55rem;
+}
+.zuo a{
+	font-size: 0.35rem;
+	line-height: 1.36rem;
+}
+.quntu{
+	width: 100%;
+	height: 3rem;
+}
+.quntu img{
+	width: 100%;
+	height: 100%;
+}
+.cai{
+	width: 100%;
+	height: 1.6rem;
+	line-height: 3rem;
+	font-size: 0.48rem;
+	text-align: center;
+}
+.dan{
+	width: 100%;
+	height: 5.6rem;
+	margin-top: 1.2rem;
+	display: flex;
+	flex-wrap: wrap;
+}
+.ji{
+	width: 33.333%;
+	height: 50%;
+	font-size: 0.32rem;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.ji img{
+	width: 1.4rem;
+	height: 1.5rem;
+}
+.zhi1{
+	margin-top: 0.4rem;
+}
+
