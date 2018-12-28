@@ -75,7 +75,7 @@
 	display: flex;
 	align-items: center;
 }
-.anniu::-webkit-scrollbar{
+.wenzi::-webkit-scrollbar{
 	width: 0;
 	height: 0;
 }
