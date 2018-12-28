@@ -53,12 +53,14 @@
 	/* background: black; */
 	margin-right: 0.03rem;
 	text-align: center;
+	overflow: auto;
 }
 .you{
 	height: 100%;
 	width: 8.5rem;
 	background: #FFFF00;
 	padding: 0rem 0.55rem;
+	overflow: auto;
 }
 .zuo a{
 	font-size: 0.35rem;
@@ -101,4 +103,3 @@
 .zhi1{
 	margin-top: 0.4rem;
 }
-

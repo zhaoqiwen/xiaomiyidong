@@ -1,0 +1,190 @@
+.zj{
+	width: 10.8rem;
+	max-width: 640px;
+	height: 100rem;
+	margin-top: 0.68rem;
+}
+.zqw{
+	width: 100%;
+	height: 0.82rem;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	align-content: center;
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0;
+	background: #CFCFCF;
+	-webkit-box-align: center;
+}
+.ls{
+	width: 5.27rem;
+	height: 0.68rem;
+	background: white;
+	margin: 0 auto;
+	font-size: 0.3rem;
+	line-height: 0.7rem;
+	padding-left: 0.5rem;
+	display: flex;
+	}
+.fanhui img{
+	width: 0.55rem;
+	height: 0.6rem;
+	margin-left: 0.55rem;
+}
+.sousuo img{
+	width: 0.62rem;
+	height: 0.62rem;
+	margin-right: 0.55rem;
+}
+.rm{
+	width: 100%;
+	height: 0.8rem;
+	font-size: 0.2rem;
+	line-height: 0.9rem;
+}
+.rm span{
+	padding-left: 0.3rem;
+}
+.tu{
+	width: 100%;
+	height: 2.99rem;
+}
+.tu img{
+	width: 100%;
+	height: 2.99rem;
+}
+.yii{
+	width: 100%;
+	height: 2.8rem;
+	
+}
+.er{
+	font-size: 0.24rem;
+	color: rgb(72, 72, 72);
+	border-color: rgb(250, 194, 136);
+	background: rgb(248, 242, 236);
+	display: inline-block;
+	padding: .14rem .2rem;
+	margin-left: .3rem;
+	border: 1px solid #e4e4e4;
+	font-size: 0.24rem;
+}
+.san{
+	color: rgb(72, 72, 72);
+    border-color: rgb(252, 160, 167);
+    background: rgb(249, 234, 234);
+	display: inline-block;
+	padding: .14rem .2rem;
+    margin: .1rem;
+    border: 1px solid #e4e4e4;
+	font-size: 0.24rem;
+}
+.si{
+	color: rgb(72, 72, 72);
+    border-color: rgb(227, 175, 150);
+    background: rgb(250, 232, 232);
+	display: inline-block;
+	padding: .14rem .2rem;
+    margin: .1rem;
+    border: 1px solid #e4e4e4;
+	font-size: 0.24rem;
+}
+.wu{
+	color: rgb(72, 72, 72);
+    border-color: rgb(187, 208, 144);
+    background: rgb(242, 246, 233);
+	display: inline-block;
+	padding: .14rem .2rem;
+    margin-left: .3rem;
+    border: 1px solid #e4e4e4;
+	font-size: 0.24rem
+}
+.liu{
+	color: rgb(72, 72, 72);
+    border-color: rgb(250, 194, 136);
+    background: rgb(248, 242, 236);
+	display: inline-block;
+	padding: .14rem .2rem;
+    margin-left: .3rem;
+    border: 1px solid #e4e4e4;
+	font-size: .24rem;
+}
+.qi{
+	color: rgb(72, 72, 72);
+    border-color: rgb(252, 160, 167);
+    background: rgb(249, 234, 234);
+	display: inline-block;
+	padding: .14rem .2rem;
+    margin: .1rem;
+    border: 1px solid #e4e4e4;
+	font-size: .24rem;
+}
+.jiu{
+	display: inline-block;
+    background: #f5f5f5;
+    height: .55rem;
+    line-height: .55rem;
+    padding: 0.1rem 0.18rem;
+    margin-left: 0.3rem;
+    /* margin-right: 0.15rem; */
+    /* margin-bottom: .1rem; */
+    color: rgba(0,0,0,.54);
+    font-size: 0.24rem;
+}
+.shi{
+	display: inline-block;
+    background: #f5f5f5;
+    height: .55rem;
+    line-height: .55rem;
+    padding: 0 .15rem;
+    margin-right: .15rem;
+    margin-bottom: .1rem;
+    color: rgba(0,0,0,.54);
+	font-size: 0.24rem;
+}
+.shiyi{
+	display: inline-block;
+    background: #f5f5f5;
+    height: .55rem;
+    line-height: .55rem;
+    padding: 0 .15rem;
+    margin-right: .15rem;
+    margin-bottom: .1rem;
+    color: rgba(0,0,0,.54);
+	font-size: 0.24rem;
+}
+.shier{
+	display: inline-block;
+    background: #f5f5f5;
+    height: .55rem;
+    line-height: .55rem;
+    padding: 0 .15rem;
+    margin-right: .15rem;
+    margin-bottom: .1rem;
+    color: rgba(0,0,0,.54);
+	font-size: 0.24rem;
+}
+.shisan{
+	display: inline-block;
+    background: #f5f5f5;
+    height: .55rem;
+    line-height: .55rem;
+    padding: 0 .15rem;
+    margin-right: .15rem;
+    margin-bottom: .1rem;
+    color: rgba(0,0,0,.54);
+	font-size: 0.24rem;
+}
+.shisi{
+	display: inline-block;
+    background: #f5f5f5;
+    height: .55rem;
+    line-height: .55rem;
+    padding: 0 .15rem;
+    margin-right: .15rem;
+    margin-bottom: .1rem;
+    color: rgba(0,0,0,.54);
+	font-size: 0.24rem;
+}

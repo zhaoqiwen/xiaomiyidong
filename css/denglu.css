@@ -1,0 +1,136 @@
+.{
+	margin: 0;
+	padding: 0;
+}
+.datu{
+	height: 18.3rem;
+	max-width: 640px;
+	/* background: #f2f2f2; */
+	margin: 0 auto;
+	/* background: #0000FF; */
+	margin-left: 0.76rem;
+	margin-right: 0.76rem;
+}
+.tubiao{
+	height: 3.44rem;
+	width: 100%;
+	/* background: blue; */
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.tubiao1{
+	height: 1.37rem;
+	width: 1.37rem;
+	
+}
+.tubiao1 img{
+	height: 100%;
+	width: 100%;
+	background: #FFFFFF;
+	margin-top: 0.81rem;
+}
+.dazi{
+	font-size: 0.5rem;
+	width: 100%;
+	height: 0.6rem;
+	text-align: center;
+	margin-top: 1.5rem;
+}
+.shuzi{
+	width: 1.66rem;
+	height: 1.5rem;
+	font-size: 0.46rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 0.35rem;
+}
+.yhm{
+	height: 1.5rem;
+	width: 7.7rem;
+	font-size: 0.5rem;
+	margin-top: 0.35rem;
+	outline: none;
+	border: none;
+}
+.mm{
+	display: flex;
+	align-items: center;
+}
+.dx{
+	height: 1.54rem;
+	width: 6.35rem;
+	font-size: 0.5rem;
+	outline: none;
+	border: none;
+}
+.hq{
+	width: 3rem;
+	height: 1.54rem;
+	font-size: 0.5rem;
+	line-height: 1.54rem;
+}
+.ko{
+	width: 9.3rem;
+	height: 1.26rem;
+	border-radius: 0.3rem;
+	background: #ff6700;
+	font-size: 0.5rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 1rem;
+}
+.ka{
+	width: 9.3rem;
+	height: 1.26rem;
+	border-radius: 0.3rem;
+	background: #fff;
+	font-size: 0.5rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 1rem;
+	border: 0.03rem solid #000000;
+}
+.kb{
+	display: flex;
+}
+.kb div{
+	width: 37%;
+	margin-top: 1rem;
+	border-top: 1px solid #e0e0e0;
+}
+.kn{
+	font-size: 0.4rem;
+    color: #b0b0b0;
+    margin: 0 auto;
+	line-height: 2rem;
+}
+.ft{
+	width: 100%;
+	height: 0.9rem;
+	display: flex;
+	justify-content: center;
+}
+.ft div{
+	width: 0.9rem;
+	height: 0.9rem;
+}
+.ft img{
+	width: 100%;
+	height: 100%;
+}
+.zf{
+	margin-left: 0.6rem;
+	margin-right: 0.6rem;
+}
+.xl{
+	width: 100%;
+	height: 0.45rem;
+	display: flex;
+	justify-content: space-around;
+	font-size: 0.45rem;
+	margin-top: 2.26rem;
+}
