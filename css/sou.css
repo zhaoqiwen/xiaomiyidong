@@ -1,7 +1,7 @@
 .zj{
 	width: 10.8rem;
 	max-width: 640px;
-	height: 100rem;
+	height: 100vh;
 	margin-top: 0.68rem;
 }
 .zqw{
@@ -47,11 +47,11 @@
 .rm span{
 	padding-left: 0.3rem;
 }
-.tu{
+.tu00{
 	width: 100%;
 	height: 2.99rem;
 }
-.tu img{
+.tu00 img{
 	width: 100%;
 	height: 2.99rem;
 }

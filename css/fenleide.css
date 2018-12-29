@@ -4,11 +4,11 @@
 }
 
 .fentou{
-	height: 100rem;
+	height: 100vh;
 	max-width: 640px;
 	background: #f2f2f2;
 	margin: 0 auto;
-	background: #0000FF;
+	/* background: #0000FF; */
 }
 	
 .fenglei{
@@ -17,7 +17,7 @@
 	height: 1.42rem;
 	display: flex;
 	justify-content: space-between;
-	background: red;
+	/* background: red; */
 	position: fixed;
 	left:0;
 	top: 0;
@@ -43,22 +43,34 @@
 }
 .xuanxiang{
 	width: 100%;
-	height: 100rem;
+	height: 100vh;
 	display: flex;
 	margin-top: 1.42rem;
 }
-.zuo{
-	height: 100%;
-	width: 2.26rem;
+.zuo2{
+	height: 100vh;
+	width: 2.29rem;
 	/* background: black; */
 	margin-right: 0.03rem;
 	text-align: center;
 	overflow: auto;
 }
+.zuo{
+	height: 18rem;
+	width: 2.26rem;
+	/* background: black; */
+	/* margin-right: 0.03rem; */
+	text-align: center;
+	overflow: auto;
+}
+.zuo::-webkit-scrollbar{
+	width: 0;
+	height: 0;
+}
 .you{
 	height: 100%;
 	width: 8.5rem;
-	background: #FFFF00;
+	/* background: #FFFF00; */
 	padding: 0rem 0.55rem;
 	overflow: auto;
 }

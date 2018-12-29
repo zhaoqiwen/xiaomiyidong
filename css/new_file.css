@@ -3,7 +3,7 @@
 	padding: 0;
 }
 .box{
-	height: 100rem;
+	height: 100vh;
 	max-width: 640px;
 	background: #f2f2f2;
 	margin: 0 auto;
