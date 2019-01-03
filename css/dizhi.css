@@ -1,0 +1,100 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.toubu{
+	max-width: 640px;
+	height: 100vh;
+	margin: 0 auto;
+}
+.fenglei{
+	width: 100%;
+	/* max-width: 640px; */
+	height: 1.42rem;
+	display: flex;
+
+	background: #f2f2f2;
+	position: fixed;
+	left:0;
+	top: 0;
+	right:0;
+	margin-left: auto;
+	margin-right: auto;
+}
+.neikuan{
+	padding: 0.2rem;
+}
+.fanhui img{
+	width: 0.35rem;
+	height: 0.6rem;
+	margin-left: 0.5rem;
+}
+.wenzi2{
+	font-size: 0.4rem;
+	line-height: 1.42rem;
+	margin: auto;
+}
+.di{
+	/* width: 10rem; */
+	height: 2.93rem;
+	/* background: #0000FF; */
+	margin-top: 1.5rem;
+	border: #f5f5f5 solid;
+}
+.shang{
+	width: 100%;
+	height: 1.1rem;
+	/* background: yellow; */
+	display: flex;
+}
+.zu{
+	height: 100%;
+	width: 2.24rem;
+	font-size: 0.44rem;
+	text-align: center;
+	line-height: 1.1rem;
+}
+.yo{
+	font-size: 0.44rem;
+	line-height: 1.1rem;
+	
+}
+.xa{
+	/* width: 100%; */
+	height: 1.83rem;
+	/* background: yellow; */
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.zo1{
+	width: 4.78rem;
+	height: 100%;
+	margin-left: 0.67rem;
+	font-size: 0.44rem;
+	line-height: 0.9rem;
+}
+.yo1{
+	width: 0.25rem;
+	height: 0.37rem;
+	margin-right: 0.47rem;
+}
+.yo1 img{
+	width: 100%;
+	height: 100%;
+}
+.xing{
+	width: 100%;
+	height: 1.55rem;
+	position: fixed;
+	left:0;
+	bottom: 0;
+	right:0;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 0.48rem;
+	line-height: 1.55rem;
+	text-align: center;
+	background: #ff6801;
+	color: #fff
+}

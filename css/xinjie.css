@@ -1,0 +1,119 @@
+.{
+	margin: 0;
+	padding: 0;
+}
+.datu{
+	height: 100vh;
+	max-width: 640px;
+	/* background: #f2f2f2; */
+	margin: 0 auto;
+	/* background: #0000FF; */
+}
+.fenglei{
+	width: 100%;
+	max-width: 640px;
+	height: 1.42rem;
+	display: flex;
+
+	background: #f2f2f2;
+	position: fixed;
+	left:0;
+	top: 0;
+	right:0;
+	margin-left: auto;
+	margin-right: auto;
+}
+.neikuan{
+	padding: 0.2rem;
+}
+.fanhui img{
+	width: 0.35rem;
+	height: 0.6rem;
+	margin-left: 0.5rem;
+}
+.wenzi2{
+	font-size: 0.4rem;
+	line-height: 1.42rem;
+	margin: auto;
+}
+.ren{
+	width: 100%;
+	height: 1.6rem;
+	/* background: yellow; */
+	margin-top: 1.42rem;
+	font-size: 0.44rem;
+	display: flex;
+	border-bottom: #f5f5f5 solid;
+}
+.ren1{
+	width: 2.2rem;
+	height: 100%;
+	/* background: #000000; */
+	line-height: 1.6rem;
+	/* text-align: center; */
+	margin-left: 0.4rem;
+}
+.ren2{
+	line-height: 1.6rem;
+	text-align: center;
+}
+.shou{
+	width: 100%;
+	height: 1.6rem;
+	/* background: yellow; */
+	/* margin-top: 1.42rem; */
+	font-size: 0.44rem;
+	display: flex;
+	border-bottom: #f5f5f5 solid;
+}
+.shou1{
+	width: 2.6rem;
+	height: 100%;
+	/* background: #000000; */
+	line-height: 1.6rem;
+	/* text-align: center; */
+	margin-left: 0.4rem;
+}
+.shou2{
+	line-height: 1.6rem;
+	text-align: center;
+}
+.sh{
+	width: 100%;
+	height: 1.6rem;
+	/* background: yellow; */
+	/* margin-top: 1.42rem; */
+	font-size: 0.44rem;
+	display: flex;
+	border-bottom: #f5f5f5 solid;
+	flex-direction: row;
+	justify-content: space-between;
+	line-height: 1.6rem;
+}
+
+.sh2{
+	height: 0.4rem;
+	width: 0.4rem;
+	border: #000 solid;
+	background: #dedede;
+	margin-right: 0.4rem;
+	margin-top: 0.38rem;
+}
+.sh1{
+	margin-left: 0.4rem;
+}
+.xing{
+	width: 100%;
+	height: 1.55rem;
+	position: fixed;
+	left:0;
+	bottom: 0;
+	right:0;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 0.48rem;
+	line-height: 1.55rem;
+	text-align: center;
+	background: #ff6801;
+	color: #fff
+}
